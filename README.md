@@ -1,2 +1,0 @@
-# ubmtechnofest
-bantu ubm hackathon
